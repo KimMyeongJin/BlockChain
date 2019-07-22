@@ -2,4 +2,4 @@
 
 ------------------
 
-My First Block Chain Project
+Type script Block Chain Project
